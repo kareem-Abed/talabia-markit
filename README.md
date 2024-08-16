@@ -2,47 +2,42 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a>
-    <img src="https://github.com/kareem-Abed/QuizMaster/assets/130121946/e97c9d98-6b60-4344-ba78-9e554994d34b" alt="Logo" width="190" height="210">
-  </a>
+<a href="#">
+  <img src="assets/logo.jpg" alt="Logo" style="width: 190px; height: 190px; border-radius: 50%; object-fit: cover;">
+</a>
 
-  <h3 align="center">QuizMaster</h3>
+  <h3 align="center">(
+طلبية ماركت-talabia-markit)</h3>
 
   <p align="center">
-  an engaging Quiz App that tests your knowledge.  </p>
+A wholesale food app offering bulk products at special prices with easy, high-quality shopping.  </p>
 </div>
 
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-'QuizMaster' is an engaging Quiz App that tests your knowledge. Built with the OpenTDB API, 'QuizMaster' adds an extra layer of interactivity to the quiz, providing dynamic and diverse questions sourced from the Open Trivia Database.
-I chose to use the OpenTDB API to ensure a rich and varied set of questions, enhancing the quiz experience and offering users a fun and educational way to expand their knowledge.
-Additionally, 'QuizMaster' features a timer that will automatically skip a question if 40 seconds elapse without an answer, adding an extra element of challenge and excitement to the quiz experience.
-Explore the app and have a blast expanding your knowledge! Dive in, play, and aim for a high score!
+“Talaba Market” is a wholesale application for food products, where you can find a variety of products at special prices and in large quantities. Enjoy a comfortable shopping experience and get what you need with ease and high quality.
 
 
+
+ ## Available on Google Play:
+  - Download the app from Google Play: [طلبية ماركت on Google Play](https://play.google.com/store/apps/details?id=com.kareem_ahmed_mahmoud_abed.talabiat)
 
 ## Features
 
-### Quiz Experience
+### talabia-Markit Enhance shopping experience
 
-- **OpenTDB API Integration**:
-  - Enhance the quiz experience with dynamic and diverse questions from the Open Trivia Database.
-  - Ensure a rich set of questions for a fun and educational knowledge expansion.
+- **Exclusive Product Selection**:
+  - Access a wide variety of food products at special wholesale prices, ideal for bulk purchases.
+  - Ensure a curated selection of high-quality items for a convenient shopping experience.
 
-- **Timer Challenge**:
-  - Introduce excitement with a timer that automatically skips a question if 40 seconds elapse without an answer.
-  - Add an extra layer of challenge for users aiming for high scores.
-
-### Built With
+- **Effortless Shopping**:
+  - Simplify the purchasing process with easy navigation and a user-friendly interface.
+  - Enjoy a quick and efficient shopping experience with a focus on customer satisfaction and value.
 
 
-![flutter](https://img.shields.io/badge/Flutter-Framework-green?logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
 
-- Getx for State Management (MVC patterns)
-- OpenTDB API for dynamic and diverse questions
 
 <!-- USAGE EXAMPLES -->
 ## photos
