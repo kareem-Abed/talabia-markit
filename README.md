@@ -50,26 +50,14 @@ Explore the app and have a blast expanding your knowledge! Dive in, play, and ai
 <br />
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
-<img src="splash.jpeg" width="200" >
-<img src=" (10).jpeg" width="200" >
-<img src="(11).jpeg" width="200" >
-<img src="(12).jpeg" width="200" >
   
-
-
-<img src=" (6).jpeg" width="200" >
-<img src=" (7).jpeg" width="200" >
-
-<img src=" (1).jpeg" width="200" >
- <img src=" (9).jpeg" width="200" >
- 
-  <img src=" (8).jpeg" width="200" >
-  <img src=" (2).jpeg" width="200" >
-  
-  <img src=" (3).jpeg" width="200" >
-   <img src=" (4).jpeg" width="200" >
-    <img src=" (5).jpeg" width="200" >
-  
+<img src="assets/(7).jpg" width="200" >  
+<img src="assets/(1).jpg" width="200" >
+<img src="assets/(2).jpg" width="200" >
+<img src="assets/(3).jpg" width="200" >
+<img src="assets/(4).jpg" width="200" >
+<img src="assets/(5).jpg" width="200" >
+<img src="assets/(6).jpg" width="200" >
 </div>
 
 
