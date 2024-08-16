@@ -3,7 +3,7 @@
 <br />
 <div align="center">
 <a href="#">
-  <img src="assets/logo.jpg" alt="Logo" style="width: 190px; height: 190px; border-radius: 50%; object-fit: cover;">
+  <img src="assets/store-logo.png" alt="Logo" style="width: 190px; height: 190px; border-radius: 50%; object-fit: cover;">
 </a>
 
   <h3 align="center">(
